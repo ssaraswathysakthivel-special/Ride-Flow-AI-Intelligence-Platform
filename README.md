@@ -1,4 +1,4 @@
-# Ride-Flow-AI-Intelligence-Platform
+Ride-Flow-AI-Intelligence-Platform
 RideFlow is an AI-powered ride analytics and prediction system that forecasts ride demand, supply, and cancellations, and also includes a smart chatbot assistant for user interaction. It helps simulate intelligent ride-hailing operations using machine learning models and real-time inputs via a Streamlit dashboard.
 
 📌 Features
